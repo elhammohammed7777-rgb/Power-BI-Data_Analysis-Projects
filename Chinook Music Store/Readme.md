@@ -136,13 +136,13 @@ The Power BI report has **two pages**.
 
 KPIs for total sales, total customers, and invoice count, plus revenue by country, spending by customer, an invoice-category breakdown, and a country slicer (Brazil / Canada / USA).
 
-![Sales & Customer Analysis](images/dashboard_sales_customers.png)
+![Sales & Customer Analysis](Images/chinook.png)
 
 ### Page 2: Music & Operations Analysis
 
 Catalog KPIs (albums, artists, tracks, playlists), a genre slicer, tracks per artist, tracks and average price by genre, and customers by country.
 
-![Music & Operations Analysis](images/dashboard_music_operations.png)
+![Music & Operations Analysis](Images/chinook2.png)
 
 ---
 
